@@ -1,7 +1,7 @@
 {
-    "name": "linkorb/etcd-php",
+    "name": "kubill/etcd",
     "description": "Etcd client library for PHP",
-    "homepage": "http://www.github.com/linkorb/etcd-php",
+    "homepage": "http://github.com/kubill/etcd",
     "keywords": [
         "php",
         "etcd",
